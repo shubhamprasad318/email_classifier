@@ -5,7 +5,7 @@ This repository contains a full implementation of an email classification system
 \#\# Setup
 
 **1\. \*\*Clone the repo\*\***    
-    git clone https://github.com/shubhamprasad318/email\_classifier  
+    git clone https://github.com/shubhamprasad318/email_classifier  
    cd email\_classifier
 
 **Install dependencies**  
